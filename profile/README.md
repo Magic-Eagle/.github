@@ -1,4 +1,4 @@
-# **EuroFighter Typhoon Simulation - Project MagicEagle**
+# **EuroFighter Simulation - Project MagicEagle**
 ![FA3AF795-68D3-4FB4-A06B-6162C9E34C42_1_105_c](https://github.com/user-attachments/assets/af17e3e6-e876-4194-b904-259435b16f33)
 
 Welcome to **Project MagicEagle**, a comprehensive Object-Oriented software simulation of the EuroFighter Typhoon fighter aircraft. This project aims to meticulously recreate the avionics, control systems, and operations of the EuroFighter, making it a detailed fighter aircraft simulation.
